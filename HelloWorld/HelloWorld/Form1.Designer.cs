@@ -35,7 +35,7 @@ namespace HelloWorld
             // 
             // btnClickThis
             // 
-            this.btnClickThis.Location = new System.Drawing.Point(345, 204);
+            this.btnClickThis.Location = new System.Drawing.Point(217, 163);
             this.btnClickThis.Name = "btnClickThis";
             this.btnClickThis.Size = new System.Drawing.Size(75, 23);
             this.btnClickThis.TabIndex = 0;
@@ -46,7 +46,7 @@ namespace HelloWorld
             // lblHelloWorld
             // 
             this.lblHelloWorld.AutoSize = true;
-            this.lblHelloWorld.Location = new System.Drawing.Point(363, 239);
+            this.lblHelloWorld.Location = new System.Drawing.Point(235, 198);
             this.lblHelloWorld.Name = "lblHelloWorld";
             this.lblHelloWorld.Size = new System.Drawing.Size(33, 13);
             this.lblHelloWorld.TabIndex = 1;
@@ -58,7 +58,7 @@ namespace HelloWorld
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(508, 384);
             this.Controls.Add(this.lblHelloWorld);
             this.Controls.Add(this.btnClickThis);
             this.Name = "form1";
