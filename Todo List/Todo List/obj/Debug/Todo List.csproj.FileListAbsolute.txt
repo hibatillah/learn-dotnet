@@ -1,0 +1,10 @@
+C:\Users\ASUS\Documents\code\kampus\learn-dotnet\Todo List\Todo List\bin\Debug\Todo List.exe.config
+C:\Users\ASUS\Documents\code\kampus\learn-dotnet\Todo List\Todo List\bin\Debug\Todo List.exe
+C:\Users\ASUS\Documents\code\kampus\learn-dotnet\Todo List\Todo List\bin\Debug\Todo List.pdb
+C:\Users\ASUS\Documents\code\kampus\learn-dotnet\Todo List\Todo List\obj\Debug\Todo List.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\code\kampus\learn-dotnet\Todo List\Todo List\obj\Debug\Todo_List.Form1.resources
+C:\Users\ASUS\Documents\code\kampus\learn-dotnet\Todo List\Todo List\obj\Debug\Todo_List.Properties.Resources.resources
+C:\Users\ASUS\Documents\code\kampus\learn-dotnet\Todo List\Todo List\obj\Debug\Todo List.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\code\kampus\learn-dotnet\Todo List\Todo List\obj\Debug\Todo List.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\code\kampus\learn-dotnet\Todo List\Todo List\obj\Debug\Todo List.exe
+C:\Users\ASUS\Documents\code\kampus\learn-dotnet\Todo List\Todo List\obj\Debug\Todo List.pdb
