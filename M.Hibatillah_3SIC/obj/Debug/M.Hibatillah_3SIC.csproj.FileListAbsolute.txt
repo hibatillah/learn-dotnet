@@ -1,0 +1,7 @@
+D:\M.Hibatillah_3SIC\M.Hibatillah_3SIC\bin\Debug\M.Hibatillah_3SIC.exe.config
+D:\M.Hibatillah_3SIC\M.Hibatillah_3SIC\bin\Debug\M.Hibatillah_3SIC.exe
+D:\M.Hibatillah_3SIC\M.Hibatillah_3SIC\bin\Debug\M.Hibatillah_3SIC.pdb
+D:\M.Hibatillah_3SIC\M.Hibatillah_3SIC\obj\Debug\M.Hibatillah_3SIC.csproj.AssemblyReference.cache
+D:\M.Hibatillah_3SIC\M.Hibatillah_3SIC\obj\Debug\M.Hibatillah_3SIC.csproj.CoreCompileInputs.cache
+D:\M.Hibatillah_3SIC\M.Hibatillah_3SIC\obj\Debug\M.Hibatillah_3SIC.exe
+D:\M.Hibatillah_3SIC\M.Hibatillah_3SIC\obj\Debug\M.Hibatillah_3SIC.pdb
