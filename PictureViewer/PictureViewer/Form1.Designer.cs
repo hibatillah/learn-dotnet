@@ -54,11 +54,12 @@ namespace PictureViewer
             this.tableLayoutPanel1.Controls.Add(this.flowLayoutPanel1, 1, 1);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
+            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 2;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 90F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(532, 358);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(816, 465);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // pictureBox1
@@ -66,9 +67,10 @@ namespace PictureViewer
             this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.tableLayoutPanel1.SetColumnSpan(this.pictureBox1, 2);
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox1.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox1.Location = new System.Drawing.Point(4, 4);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(526, 316);
+            this.pictureBox1.Size = new System.Drawing.Size(808, 410);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
@@ -76,9 +78,10 @@ namespace PictureViewer
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(3, 325);
+            this.checkBox1.Location = new System.Drawing.Point(4, 422);
+            this.checkBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(58, 17);
+            this.checkBox1.Size = new System.Drawing.Size(73, 21);
             this.checkBox1.TabIndex = 1;
             this.checkBox1.Text = "strecth";
             this.checkBox1.UseVisualStyleBackColor = true;
@@ -92,17 +95,19 @@ namespace PictureViewer
             this.flowLayoutPanel1.Controls.Add(this.closeButton);
             this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.flowLayoutPanel1.FlowDirection = System.Windows.Forms.FlowDirection.RightToLeft;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(82, 325);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(126, 422);
+            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(447, 30);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(686, 39);
             this.flowLayoutPanel1.TabIndex = 2;
             // 
             // showButton
             // 
             this.showButton.AutoSize = true;
-            this.showButton.Location = new System.Drawing.Point(356, 3);
+            this.showButton.Location = new System.Drawing.Point(534, 4);
+            this.showButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.showButton.Name = "showButton";
-            this.showButton.Size = new System.Drawing.Size(88, 23);
+            this.showButton.Size = new System.Drawing.Size(148, 33);
             this.showButton.TabIndex = 0;
             this.showButton.Text = "Show a picture";
             this.showButton.UseVisualStyleBackColor = true;
@@ -111,9 +116,10 @@ namespace PictureViewer
             // clearButton
             // 
             this.clearButton.AutoSize = true;
-            this.clearButton.Location = new System.Drawing.Point(274, 3);
+            this.clearButton.Location = new System.Drawing.Point(395, 4);
+            this.clearButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.clearButton.Name = "clearButton";
-            this.clearButton.Size = new System.Drawing.Size(76, 23);
+            this.clearButton.Size = new System.Drawing.Size(131, 33);
             this.clearButton.TabIndex = 1;
             this.clearButton.Text = "Clear picture";
             this.clearButton.UseVisualStyleBackColor = true;
@@ -122,9 +128,10 @@ namespace PictureViewer
             // backgroundButton
             // 
             this.backgroundButton.AutoSize = true;
-            this.backgroundButton.Location = new System.Drawing.Point(131, 3);
+            this.backgroundButton.Location = new System.Drawing.Point(151, 4);
+            this.backgroundButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.backgroundButton.Name = "backgroundButton";
-            this.backgroundButton.Size = new System.Drawing.Size(137, 23);
+            this.backgroundButton.Size = new System.Drawing.Size(236, 33);
             this.backgroundButton.TabIndex = 2;
             this.backgroundButton.Text = "Set the background color";
             this.backgroundButton.UseVisualStyleBackColor = true;
@@ -133,9 +140,10 @@ namespace PictureViewer
             // closeButton
             // 
             this.closeButton.AutoSize = true;
-            this.closeButton.Location = new System.Drawing.Point(50, 3);
+            this.closeButton.Location = new System.Drawing.Point(43, 4);
+            this.closeButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.closeButton.Name = "closeButton";
-            this.closeButton.Size = new System.Drawing.Size(75, 23);
+            this.closeButton.Size = new System.Drawing.Size(100, 33);
             this.closeButton.TabIndex = 3;
             this.closeButton.Text = "Close";
             this.closeButton.UseVisualStyleBackColor = true;
@@ -151,10 +159,11 @@ namespace PictureViewer
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(532, 358);
+            this.ClientSize = new System.Drawing.Size(816, 465);
             this.Controls.Add(this.tableLayoutPanel1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Picture Viewer";
             this.tableLayoutPanel1.ResumeLayout(false);

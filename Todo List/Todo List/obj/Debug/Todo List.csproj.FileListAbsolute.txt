@@ -8,3 +8,13 @@ C:\Users\ASUS\Documents\code\kampus\learn-dotnet\Todo List\Todo List\obj\Debug\T
 C:\Users\ASUS\Documents\code\kampus\learn-dotnet\Todo List\Todo List\obj\Debug\Todo List.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Documents\code\kampus\learn-dotnet\Todo List\Todo List\obj\Debug\Todo List.exe
 C:\Users\ASUS\Documents\code\kampus\learn-dotnet\Todo List\Todo List\obj\Debug\Todo List.pdb
+D:\learn-dotnet\Todo List\Todo List\bin\Debug\Todo List.exe.config
+D:\learn-dotnet\Todo List\Todo List\bin\Debug\Todo List.exe
+D:\learn-dotnet\Todo List\Todo List\bin\Debug\Todo List.pdb
+D:\learn-dotnet\Todo List\Todo List\obj\Debug\Todo List.csproj.AssemblyReference.cache
+D:\learn-dotnet\Todo List\Todo List\obj\Debug\Todo_List.Form1.resources
+D:\learn-dotnet\Todo List\Todo List\obj\Debug\Todo_List.Properties.Resources.resources
+D:\learn-dotnet\Todo List\Todo List\obj\Debug\Todo List.csproj.GenerateResource.cache
+D:\learn-dotnet\Todo List\Todo List\obj\Debug\Todo List.csproj.CoreCompileInputs.cache
+D:\learn-dotnet\Todo List\Todo List\obj\Debug\Todo List.exe
+D:\learn-dotnet\Todo List\Todo List\obj\Debug\Todo List.pdb

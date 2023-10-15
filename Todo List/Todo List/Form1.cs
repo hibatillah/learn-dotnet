@@ -33,34 +33,27 @@ namespace Todo_List
 
     }
 
-    private Panel Task()
-    {
-      var task = new FlowLayoutPanel { Dock = DockStyle.Fill };
-      task.BorderStyle = BorderStyle.Fixed3D;
+        private void submitButton_Click(object sender, EventArgs e)
+        {
+            if (textInput.Text.Length > 0)
+            {
+                listBox.Items.Add(textInput.Text);
+                textInput.Clear();
+                textInput.Focus();
+            }
+        }
 
-      var clearButton = new Button();
-      clearButton.Text = "Clear Todo";
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
 
-      return task;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (listBox.Items.Count > 0)
+            {
+                listBox.Items.RemoveAt(listBox.SelectedIndex);
+            }
+        }
     }
-
-    private void submitButton_Click(object sender, EventArgs e)
-    {
-      var task = new FlowLayoutPanel { Dock = DockStyle.Fill };
-      task.BorderStyle = BorderStyle.Fixed3D;
-
-      var clearButton = new Button { BackColor = Color.Red, ForeColor = Color.LightSlateGray };
-      clearButton.Text = "Clear Todo";
-
-      var content = new Label();
-      content.Text = textInput.Text;
-
-      task.Controls.Add(content);
-      task.Controls.Add(clearButton);
-
-      listBox.Items.Add(task);
-      textInput.Text = null;
-    }
-
-  }
 }
