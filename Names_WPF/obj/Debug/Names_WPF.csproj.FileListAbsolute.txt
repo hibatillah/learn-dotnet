@@ -1,0 +1,15 @@
+D:\M.Hibatillah_3SIC\Names_WPF\bin\Debug\Names_WPF.exe.config
+D:\M.Hibatillah_3SIC\Names_WPF\bin\Debug\Names_WPF.exe
+D:\M.Hibatillah_3SIC\Names_WPF\bin\Debug\Names_WPF.pdb
+D:\M.Hibatillah_3SIC\Names_WPF\obj\Debug\Names_WPF.csproj.AssemblyReference.cache
+D:\M.Hibatillah_3SIC\Names_WPF\obj\Debug\MainWindow.g.cs
+D:\M.Hibatillah_3SIC\Names_WPF\obj\Debug\App.g.cs
+D:\M.Hibatillah_3SIC\Names_WPF\obj\Debug\Names_WPF_MarkupCompile.cache
+D:\M.Hibatillah_3SIC\Names_WPF\obj\Debug\Names_WPF_MarkupCompile.lref
+D:\M.Hibatillah_3SIC\Names_WPF\obj\Debug\MainWindow.baml
+D:\M.Hibatillah_3SIC\Names_WPF\obj\Debug\Names_WPF.g.resources
+D:\M.Hibatillah_3SIC\Names_WPF\obj\Debug\Names_WPF.Properties.Resources.resources
+D:\M.Hibatillah_3SIC\Names_WPF\obj\Debug\Names_WPF.csproj.GenerateResource.cache
+D:\M.Hibatillah_3SIC\Names_WPF\obj\Debug\Names_WPF.csproj.CoreCompileInputs.cache
+D:\M.Hibatillah_3SIC\Names_WPF\obj\Debug\Names_WPF.exe
+D:\M.Hibatillah_3SIC\Names_WPF\obj\Debug\Names_WPF.pdb
