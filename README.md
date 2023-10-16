@@ -6,3 +6,6 @@ Dokumentasi Framework Enterprise program studi Sistem Informasi [Politeknik Calt
 - Windows Form
   - Picture Viewer
   - Todo List
+- Windows Presentation Foundation
+  - Names List
+  - Kalkulator
