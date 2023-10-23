@@ -3,9 +3,9 @@ Dokumentasi Framework Enterprise program studi Sistem Informasi [Politeknik Calt
 
 ### Materi
 - C# basic
-- Windows Form
+- Windows Forms (WinForms)
   - Picture Viewer
   - Todo List
-- Windows Presentation Foundation
+- Windows Presentation Foundation (WPF)
   - Names List
   - Kalkulator
