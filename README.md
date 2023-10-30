@@ -9,3 +9,6 @@ Dokumentasi Framework Enterprise program studi Sistem Informasi [Politeknik Calt
 - Windows Presentation Foundation (WPF)
   - Names List
   - Kalkulator
+- .NET Core Web Application
+  - Pages
+  - Model View Controller (MVC)
